@@ -1,5 +1,5 @@
-# MongoDB
+# RMS for the Fotheby'a Auction House
 
-## Username: Robert
+## Technologies
 
-## Password: Mipwu2-johwuc-xexrob
+MERN stack
