@@ -64,7 +64,7 @@ const NotesPageLoggedInView = () => {
                 className={`mb-4 ${styleUtils.blockCenter} ${styleUtils.flexCenter}`}
                 onClick={() => setShowAddNoteDialog(true)}>
                 <FaPlus />
-                Add new note
+                Add new item
             </Button>
             {notesLoading && <Spinner animation='border' variant='primary' />}
             {showNotesLoadingError && <p>Something went wrong. Please refresh the page.</p>}
